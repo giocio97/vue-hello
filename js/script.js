@@ -2,7 +2,8 @@
 var root = new Vue ({
 el: `#titolo`,
 data:{
-    messaggio : `Ciao a tutti `
+    messaggio : `Ciao a tutti `,
+    immagine:`https://picsum.photos/seed/picsum/200/300`,
 
 }
 });
